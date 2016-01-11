@@ -1,0 +1,13 @@
+num_docs: 2000
+num_terms: 10473
+num_topics: 100
+batch_size: 200
+alpha: 0.01
+eta: 0.01
+tau0: 1.0
+kappa: 0.9
+iter_infer: 50
+conv_infer: 1e-4
+iter_train: 2
+burn_in: 25
+samples: 25

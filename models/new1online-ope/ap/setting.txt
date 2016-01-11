@@ -1,0 +1,13 @@
+kappa: 0.900000
+num_topics: 100.000000
+num_docs: 2000.000000
+iter_train: 2.000000
+iter_infer: 50.000000
+batch_size: 200.000000
+tau0: 1.000000
+eta: 0.010000
+burn_in: 25.000000
+num_terms: 10473.000000
+samples: 25.000000
+alpha: 0.010000
+conv_infer: 0.000100
